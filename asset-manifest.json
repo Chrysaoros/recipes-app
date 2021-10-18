@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.js": "/food-recipes-app/static/js/main.f872ec86.chunk.js",
-    "main.js.map": "/food-recipes-app/static/js/main.f872ec86.chunk.js.map",
-    "runtime-main.js": "/food-recipes-app/static/js/runtime-main.3d353836.js",
-    "runtime-main.js.map": "/food-recipes-app/static/js/runtime-main.3d353836.js.map",
-    "static/js/2.ca7ccdb2.chunk.js": "/food-recipes-app/static/js/2.ca7ccdb2.chunk.js",
-    "static/js/2.ca7ccdb2.chunk.js.map": "/food-recipes-app/static/js/2.ca7ccdb2.chunk.js.map",
-    "index.html": "/food-recipes-app/index.html",
-    "static/js/2.ca7ccdb2.chunk.js.LICENSE.txt": "/food-recipes-app/static/js/2.ca7ccdb2.chunk.js.LICENSE.txt"
+    "main.js": "/recipes-app/static/js/main.f872ec86.chunk.js",
+    "main.js.map": "/recipes-app/static/js/main.f872ec86.chunk.js.map",
+    "runtime-main.js": "/recipes-app/static/js/runtime-main.d16e5b8c.js",
+    "runtime-main.js.map": "/recipes-app/static/js/runtime-main.d16e5b8c.js.map",
+    "static/js/2.0004b5bd.chunk.js": "/recipes-app/static/js/2.0004b5bd.chunk.js",
+    "static/js/2.0004b5bd.chunk.js.map": "/recipes-app/static/js/2.0004b5bd.chunk.js.map",
+    "index.html": "/recipes-app/index.html",
+    "static/js/2.0004b5bd.chunk.js.LICENSE.txt": "/recipes-app/static/js/2.0004b5bd.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.3d353836.js",
-    "static/js/2.ca7ccdb2.chunk.js",
+    "static/js/runtime-main.d16e5b8c.js",
+    "static/js/2.0004b5bd.chunk.js",
     "static/js/main.f872ec86.chunk.js"
   ]
 }
