@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/food-recipes-app/static/js/main.f872ec86.chunk.js",
+    "main.js.map": "/food-recipes-app/static/js/main.f872ec86.chunk.js.map",
+    "runtime-main.js": "/food-recipes-app/static/js/runtime-main.3d353836.js",
+    "runtime-main.js.map": "/food-recipes-app/static/js/runtime-main.3d353836.js.map",
+    "static/js/2.ca7ccdb2.chunk.js": "/food-recipes-app/static/js/2.ca7ccdb2.chunk.js",
+    "static/js/2.ca7ccdb2.chunk.js.map": "/food-recipes-app/static/js/2.ca7ccdb2.chunk.js.map",
+    "index.html": "/food-recipes-app/index.html",
+    "static/js/2.ca7ccdb2.chunk.js.LICENSE.txt": "/food-recipes-app/static/js/2.ca7ccdb2.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3d353836.js",
+    "static/js/2.ca7ccdb2.chunk.js",
+    "static/js/main.f872ec86.chunk.js"
+  ]
+}
